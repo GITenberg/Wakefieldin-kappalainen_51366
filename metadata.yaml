@@ -1,5 +1,5 @@
 _repo: Wakefieldin-kappalainen_51366
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The vicar of Wakefield. Finnish
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '7732'
     url: http://www.gutenberg.org/2009/agents/7732
     wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goldsmith, Oliver
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/211
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Goldsmith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51366#Wakefieldin-kappalainen
 gutenberg_issued: '2016-03-05'
 gutenberg_type: Text
 identifiers:
