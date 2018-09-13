@@ -1,0 +1,43 @@
+_repo: Wakefieldin-kappalainen_51366
+_version: 0.0.1
+alternative_title: The vicar of Wakefield. Finnish
+contributor:
+  translator:
+    agent_name: Suomalainen, Samuli
+    aliases:
+    - S., Samuli
+    - Samuli S.
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '7732'
+    url: http://www.gutenberg.org/2009/agents/7732
+    wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
+creator:
+  author:
+    agent_name: Goldsmith, Oliver
+    alias: Goldsmit, Oliver
+    deathdate: 1774
+    gutenberg_agent_id: '211'
+    url: http://www.gutenberg.org/2009/agents/211
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Goldsmith
+description: ''
+gutenberg_issued: '2016-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51366'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Abduction -- Fiction'
+- !lcsh 'Prisoners -- Fiction'
+- !lcsh 'Children of clergy -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Poor families -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Domestic fiction'
+- GITenberg
+title: Wakefieldin kappalainen
+url: http://www.gutenberg.org/ebooks/51366
